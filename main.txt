@@ -1,2 +1,3 @@
 hello world!
-this is written in github
+this is written in GitHub
+got it from local

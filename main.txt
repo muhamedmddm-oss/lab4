@@ -1,4 +1,4 @@
 hello world!
-this is written in GitHob
+this is written in Git Hub
 got it from local
 

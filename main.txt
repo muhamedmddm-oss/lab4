@@ -1,5 +1,5 @@
 hello world!
-this is written in Git Hub
+this is written in GitHub
 got it from local
 this is from lab 5 CI/CU
 
